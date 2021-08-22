@@ -1,135 +1,138 @@
  #EXTM3U
+ 
+ 
+NO COPIAR TE ESTOY VIENDO
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Disomnia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kmQ1lBmeC5oLztNKQUBB6xh8i.jpg" group-title="2021",Disomnia (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Disomnia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kmQ1lBmeC5oLztNKQUBB6xh8i.jpg" ,Disomnia (2021)
 http://directo.ddns.me:33200/movie/max/123456/47901.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En El Barrio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMeMxDRxQN9JlvAadduPDdkpxjh.jpg" group-title="2021",En El Barrio (2021)
+#EXTINF:-1 tvg-id="" tvg-name="En El Barrio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMeMxDRxQN9JlvAadduPDdkpxjh.jpg" ,En El Barrio (2021)
 http://directo.ddns.me:33200/movie/max/123456/47902.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="2021",Infinite (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" ,Infinite (2021)
 http://directo.ddns.me:33200/movie/max/123456/47903.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La skater (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVyKzuaqtciRypdxi3bycqNSa27.jpg" group-title="2021",La skater (2021)
+#EXTINF:-1 tvg-id="" tvg-name="La skater (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVyKzuaqtciRypdxi3bycqNSa27.jpg" ,La skater (2021)
 http://directo.ddns.me:33200/movie/max/123456/47904.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El dragón de los deseos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg" group-title="2021",El dragón de los deseos (2021)
+#EXTINF:-1 tvg-id="" tvg-name="El dragón de los deseos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg" ,El dragón de los deseos (2021)
 http://directo.ddns.me:33200/movie/max/123456/47905.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ainbo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyDU092PeGGcd6wUIzlhFoaWcyX.jpg" group-title="2021",Ainbo (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Ainbo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyDU092PeGGcd6wUIzlhFoaWcyX.jpg" ,Ainbo (2021)
 http://directo.ddns.me:33200/movie/max/123456/47920.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Barbie y Chelsea, el cumpleaños perdido (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuV4ybeV2PRd4WjTsEYqxkcIpMy.jpg" group-title="2021",Barbie y Chelsea, el cumpleaños perdido (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Barbie y Chelsea, el cumpleaños perdido (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuV4ybeV2PRd4WjTsEYqxkcIpMy.jpg" ,Barbie y Chelsea, el cumpleaños perdido (2021)
 http://directo.ddns.me:33200/movie/max/123456/47921.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El otro guardaespaldas 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKAVUfLbRgjbhluFlXw6s2pcpoR.jpg" group-title="2021",El otro guardaespaldas 2 (2021)
+#EXTINF:-1 tvg-id="" tvg-name="El otro guardaespaldas 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKAVUfLbRgjbhluFlXw6s2pcpoR.jpg" ,El otro guardaespaldas 2 (2021)
 http://directo.ddns.me:33200/movie/max/123456/47922.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Rogue Hostage (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePYagdzUwKpzTP73n9CD3D1MFn.jpg" group-title="2021",Rogue Hostage (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Rogue Hostage (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePYagdzUwKpzTP73n9CD3D1MFn.jpg" ,Rogue Hostage (2021)
 http://directo.ddns.me:33200/movie/max/123456/47923.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Death Saved My Life (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" group-title="2021",Death Saved My Life (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Death Saved My Life (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2S4AMsZG7PZmSLgDhPCKk5VakT.jpg" ,Death Saved My Life (2021)
 http://directo.ddns.me:33200/movie/max/123456/47924.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Charlatan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbCJZ0lgscj87UlKgoH0b5Z7hK2.jpg" group-title="2020",Charlatan (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Charlatan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbCJZ0lgscj87UlKgoH0b5Z7hK2.jpg" ,Charlatan (2020)
 http://directo.ddns.me:33200/movie/max/123456/47956.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El fotógrafo de Minamata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osmpFmDbFUkkBeFWb5ZahAmur3P.jpg" group-title="2020",El fotógrafo de Minamata (2020)
+#EXTINF:-1 tvg-id="" tvg-name="El fotógrafo de Minamata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osmpFmDbFUkkBeFWb5ZahAmur3P.jpg" ,El fotógrafo de Minamata (2020)
 http://directo.ddns.me:33200/movie/max/123456/47957.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cálculo Mortal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIHwHM3m0O8escRlRyDoCEaAY7Z.jpg" group-title="2020",Cálculo Mortal (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Cálculo Mortal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIHwHM3m0O8escRlRyDoCEaAY7Z.jpg" ,Cálculo Mortal (2020)
 http://directo.ddns.me:33200/movie/max/123456/47958.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ser padre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR2fzm82fl0giommpo310LBOMbV.jpg" group-title="2021",Ser padre (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Ser padre (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pR2fzm82fl0giommpo310LBOMbV.jpg" ,Ser padre (2021)
 http://directo.ddns.me:33200/movie/max/123456/47959.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un Mundo Complicado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsHLyMrVRUX2nV6tsZIdK8TcTnh.jpg" group-title="2021",Un Mundo Complicado (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Un Mundo Complicado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsHLyMrVRUX2nV6tsZIdK8TcTnh.jpg" ,Un Mundo Complicado (2021)
 http://directo.ddns.me:33200/movie/max/123456/47960.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Samurái X: El fin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS4jWkkS9A6FTLcHQb7Z6FVr9tH.jpg" group-title="2021",Samurái X: El fin (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Samurái X: El fin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS4jWkkS9A6FTLcHQb7Z6FVr9tH.jpg" ,Samurái X: El fin (2021)
 http://directo.ddns.me:33200/movie/max/123456/47961.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Seguridad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuMcn12Us09pmAOuVEHXmFRivjF.jpg" group-title="2021",Seguridad (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Seguridad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuMcn12Us09pmAOuVEHXmFRivjF.jpg" ,Seguridad (2021)
 http://directo.ddns.me:33200/movie/max/123456/47962.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Supernova (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5n8Qb5Vm01s8UdqI6Brf0J4j6W.jpg" group-title="2021",Supernova (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Supernova (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5n8Qb5Vm01s8UdqI6Brf0J4j6W.jpg" ,Supernova (2021)
 http://directo.ddns.me:33200/movie/max/123456/47963.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Misfits (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPOyYnCkRbWAEem85N3VFpQODf5.jpg" group-title="2021",The Misfits (2021)
+#EXTINF:-1 tvg-id="" tvg-name="The Misfits (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPOyYnCkRbWAEem85N3VFpQODf5.jpg" ,The Misfits (2021)
 http://directo.ddns.me:33200/movie/max/123456/47964.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTswp6KyDYKtvC52GbHagrZbGvD.jpg" group-title="2021",Luca (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTswp6KyDYKtvC52GbHagrZbGvD.jpg" ,Luca (2021)
 http://directo.ddns.me:33200/movie/max/123456/47965.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Otra ronda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg" group-title="2020",Otra ronda (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Otra ronda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg" ,Otra ronda (2020)
 http://directo.ddns.me:33200/movie/max/123456/47981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Attraction to Paris (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yA3JhP78YQRQpXcEAaTzkxONdM.jpg" group-title="2021",Attraction to Paris (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Attraction to Paris (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yA3JhP78YQRQpXcEAaTzkxONdM.jpg" ,Attraction to Paris (2021)
 http://directo.ddns.me:33200/movie/max/123456/47982.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ali & Ratu Ratu Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXdWF3Gq26HyWEpdOW79aQajZvd.jpg" group-title="2021",Ali & Ratu Ratu Queens (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Ali & Ratu Ratu Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXdWF3Gq26HyWEpdOW79aQajZvd.jpg" ,Ali & Ratu Ratu Queens (2021)
 http://directo.ddns.me:33200/movie/max/123456/47983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Censor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rSel7TYn7CcVsgJqyfxFIXJ5Jf.jpg" group-title="2021",Censor (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Censor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rSel7TYn7CcVsgJqyfxFIXJ5Jf.jpg" ,Censor (2021)
 http://directo.ddns.me:33200/movie/max/123456/47984.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Juega Conmigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg" group-title="2021",Juega Conmigo (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Juega Conmigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM5kNvZzcMSmWv7CFTxnTu5zfoa.jpg" ,Juega Conmigo (2021)
 http://directo.ddns.me:33200/movie/max/123456/47985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sueños de una escritora en Nueva York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLZzwS4ezYPsJqfDyDrOgvFWeSt.jpg" group-title="2021",Sueños de una escritora en Nueva York (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Sueños de una escritora en Nueva York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLZzwS4ezYPsJqfDyDrOgvFWeSt.jpg" ,Sueños de una escritora en Nueva York (2021)
 http://directo.ddns.me:33200/movie/max/123456/47986.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Batman: The Long Halloween Part One (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvaB0jrzFXq07bUpox03k6qOAJu.jpg" group-title="2021",Batman: The Long Halloween Part One (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Batman: The Long Halloween Part One (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvaB0jrzFXq07bUpox03k6qOAJu.jpg" ,Batman: The Long Halloween Part One (2021)
 http://directo.ddns.me:33200/movie/max/123456/47987.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Un lugar tranquilo 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95m7s0jg0UHP3bIuwZkA12fxTl9.jpg" group-title="2021",Un lugar tranquilo 2 (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar tranquilo 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95m7s0jg0UHP3bIuwZkA12fxTl9.jpg" ,Un lugar tranquilo 2 (2021)
 http://directo.ddns.me:33200/movie/max/123456/47988.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Los Reyes De Baltimore (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oiMFMarbRpcusASIX4cjVXoZKI.jpg" group-title="2020",Los Reyes De Baltimore (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Los Reyes De Baltimore (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oiMFMarbRpcusASIX4cjVXoZKI.jpg" ,Los Reyes De Baltimore (2020)
 http://directo.ddns.me:33200/movie/max/123456/48001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Edge of the World (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwe29qj6sZzjIfQYHiwuHjqtBnb.jpg" group-title="2021",Edge of the World (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Edge of the World (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwe29qj6sZzjIfQYHiwuHjqtBnb.jpg" ,Edge of the World (2021)
 http://directo.ddns.me:33200/movie/max/123456/48002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El caso Wanninkhof-Carabantes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkdQ3z1YyJvoy9pCLQzvWh68Nea.jpg" group-title="2021",El caso Wanninkhof-Carabantes (2021)
+#EXTINF:-1 tvg-id="" tvg-name="El caso Wanninkhof-Carabantes (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkdQ3z1YyJvoy9pCLQzvWh68Nea.jpg" ,El caso Wanninkhof-Carabantes (2021)
 http://directo.ddns.me:33200/movie/max/123456/48006.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Untitled Horror Movie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HizqO0Htv6e68pWu0gzsoDthXq.jpg" group-title="2021",Untitled Horror Movie (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Untitled Horror Movie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HizqO0Htv6e68pWu0gzsoDthXq.jpg" ,Untitled Horror Movie (2021)
 http://directo.ddns.me:33200/movie/max/123456/48009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Casa de Las Flores: La Película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taSkrxVRwilWCdQqbwDwsqqa80t.jpg" group-title="2021",La Casa de Las Flores: La Película (2021)
+#EXTINF:-1 tvg-id="" tvg-name="La Casa de Las Flores: La Película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taSkrxVRwilWCdQqbwDwsqqa80t.jpg" ,La Casa de Las Flores: La Película (2021)
 http://directo.ddns.me:33200/movie/max/123456/48010.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spirit - Indomable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mptEtOkw906BJuD9rRUKG5sr5E9.jpg" group-title="2021",Spirit - Indomable (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Spirit - Indomable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mptEtOkw906BJuD9rRUKG5sr5E9.jpg" ,Spirit - Indomable (2021)
 http://directo.ddns.me:33200/movie/max/123456/48011.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Batman Forever (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg6BN76E9iIEtiawMJnCecY0zgY.jpg" group-title="CIENCIA FICCION",Batman Forever (1995)
 http://directo.ddns.me:33200/movie/max/123456/48054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Y llovieron pájaros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfaBmDexlZmuY4t9yU0xKv4OyuS.jpg" group-title="DRAMA",Y llovieron pájaros (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Y llovieron pájaros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfaBmDexlZmuY4t9yU0xKv4OyuS.jpg" ,Y llovieron pájaros (2019)
 http://directo.ddns.me:33200/movie/max/123456/48120.mkv
-#EXTINF:-1 tvg-id="" tvg-name="14 días, 12 noches (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jRl5en1AHzPOj2S41Ch6CTiQ2J.jpg" group-title="DRAMA",14 días, 12 noches (2019)
+#EXTINF:-1 tvg-id="" tvg-name="14 días, 12 noches (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jRl5en1AHzPOj2S41Ch6CTiQ2J.jpg" ,14 días, 12 noches (2019)
 http://directo.ddns.me:33200/movie/max/123456/48121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chernobyl: Abyss (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssApiPZ0O0U7IHPJ306i29Ejcuw.jpg" group-title="2020",Chernobyl: Abyss (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Chernobyl: Abyss (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssApiPZ0O0U7IHPJ306i29Ejcuw.jpg" ,Chernobyl: Abyss (2021)
 http://directo.ddns.me:33200/movie/max/123456/48122.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Minari. Historia de mi familia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV4DsRCDVl0Xr41o1dGnWgbZ9GL.jpg" group-title="2021",Minari. Historia de mi familia (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Minari. Historia de mi familia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tV4DsRCDVl0Xr41o1dGnWgbZ9GL.jpg" ,Minari. Historia de mi familia (2020)
 http://directo.ddns.me:33200/movie/max/123456/48123.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La nueva Cenicienta: Superestrella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXJWIqJbwkjtJLKbmUv0vlflhra.jpg" group-title="2021",La nueva Cenicienta: Superestrella (2021)
+#EXTINF:-1 tvg-id="" tvg-name="La nueva Cenicienta: Superestrella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXJWIqJbwkjtJLKbmUv0vlflhra.jpg" ,La nueva Cenicienta: Superestrella (2021)
 http://directo.ddns.me:33200/movie/max/123456/48124.mkv
-#EXTINF:-1 tvg-id="" tvg-name="False Positive (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HSov8EW2fI3oQbUJxOvnf684ej.jpg" group-title="2021",False Positive (2021)
+#EXTINF:-1 tvg-id="" tvg-name="False Positive (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HSov8EW2fI3oQbUJxOvnf684ej.jpg" ,False Positive (2021)
 http://directo.ddns.me:33200/movie/max/123456/48125.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Ice Road (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg" group-title="2021",The Ice Road (2021)
+#EXTINF:-1 tvg-id="" tvg-name="The Ice Road (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg" ,The Ice Road (2021)
 http://directo.ddns.me:33200/movie/max/123456/48127.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¿Quién es Carlitos? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMC5pAZIwkYQRuhnhf2Bw0kE1I6.jpg" group-title="2021",¿Quién es Carlitos? (2021)
+#EXTINF:-1 tvg-id="" tvg-name="¿Quién es Carlitos? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMC5pAZIwkYQRuhnhf2Bw0kE1I6.jpg" ,¿Quién es Carlitos? (2021)
 http://directo.ddns.me:33200/movie/max/123456/48128.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fathom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DtdQuZ2ADIlCeMT4g2lwWu22Zt.jpg" group-title="2021",Fathom (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Fathom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DtdQuZ2ADIlCeMT4g2lwWu22Zt.jpg" ,Fathom (2021)
 http://directo.ddns.me:33200/movie/max/123456/48129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Estados Unidos: La Película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOheGvNG4lIGA4NSBcSxuYpaLiX.jpg" group-title="2021",Estados Unidos: La Película (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Estados Unidos: La Película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOheGvNG4lIGA4NSBcSxuYpaLiX.jpg" ,Estados Unidos: La Película (2021)
 http://directo.ddns.me:33200/movie/max/123456/48151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La calle del terror, Parte 1: 1994 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JG46f4JtCJTUf2z9UbiL9qusOP.jpg" group-title="2021",La calle del terror, Parte 1: 1994 (2021)
+#EXTINF:-1 tvg-id="" tvg-name="La calle del terror, Parte 1: 1994 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JG46f4JtCJTUf2z9UbiL9qusOP.jpg" ,La calle del terror, Parte 1: 1994 (2021)
 http://directo.ddns.me:33200/movie/max/123456/48153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Como Hackear Seu Chefe (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scQnDbxrviyuJWpUM0c2eONRhR.jpg" group-title="2021",Como Hackear Seu Chefe (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Como Hackear Seu Chefe (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scQnDbxrviyuJWpUM0c2eONRhR.jpg" ,Como Hackear Seu Chefe (2021)
 http://directo.ddns.me:33200/movie/max/123456/48154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam: Hathaway (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0JtG3VUWYGuE7j5JlmCQlcssl.jpg" group-title="2021",Mobile Suit Gundam: Hathaway (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Mobile Suit Gundam: Hathaway (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ0JtG3VUWYGuE7j5JlmCQlcssl.jpg" ,Mobile Suit Gundam: Hathaway (2021)
 http://directo.ddns.me:33200/movie/max/123456/48155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ni un paso en falso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6Ifj8RJY39luVKweFvhP9hDOfo.jpg" group-title="2021",Ni un paso en falso (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Ni un paso en falso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6Ifj8RJY39luVKweFvhP9hDOfo.jpg" ,Ni un paso en falso (2021)
 http://directo.ddns.me:33200/movie/max/123456/48156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Horario Estelar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWlb4vtjUYabK9hqigW0hqdVMtE.jpg" group-title="2021",Horario Estelar (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Horario Estelar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWlb4vtjUYabK9hqigW0hqdVMtE.jpg" ,Horario Estelar (2021)
 http://directo.ddns.me:33200/movie/max/123456/48157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Día de redención (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg" group-title="2021",Día de redención (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Día de redención (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1Tk1LUwS3nRlugiXnag6Bu1ToG.jpg" ,Día de redención (2021)
 http://directo.ddns.me:33200/movie/max/123456/48158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La 8.ª noche (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPR5pAL8LjoO8q4rQ7knhzu0TjO.jpg" group-title="2021",La 8.ª noche (2021)
+#EXTINF:-1 tvg-id="" tvg-name="La 8.ª noche (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPR5pAL8LjoO8q4rQ7knhzu0TjO.jpg" ,La 8.ª noche (2021)
 http://directo.ddns.me:33200/movie/max/123456/48159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La guerra del mañana (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBcdtoe3Vu8MacviGjkJRd0U1BG.jpg" group-title="2021",La guerra del mañana (2021)
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del mañana (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBcdtoe3Vu8MacviGjkJRd0U1BG.jpg" ,La guerra del mañana (2021)
 http://directo.ddns.me:33200/movie/max/123456/48160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="El silencio de los espías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUK3SWJ9OTlohepMHaoR4r8K5AA.jpg" group-title="2021",El silencio de los espías (2021)
+#EXTINF:-1 tvg-id="" tvg-name="El silencio de los espías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUK3SWJ9OTlohepMHaoR4r8K5AA.jpg" ,El silencio de los espías (2021)
 http://directo.ddns.me:33200/movie/max/123456/48161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gaia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8cwfPwjHDWf5s5MxvLvcfnxPLL.jpg" group-title="2021",Gaia (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Gaia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8cwfPwjHDWf5s5MxvLvcfnxPLL.jpg" ,Gaia (2021)
 http://directo.ddns.me:33200/movie/max/123456/48201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La belleza y el enigma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LqRCLqvQ1d0qa7F9ofbq3dosJs.jpg" group-title="2021",La belleza y el enigma (2021)
+#EXTINF:-1 tvg-id="" tvg-name="La belleza y el enigma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LqRCLqvQ1d0qa7F9ofbq3dosJs.jpg" ,La belleza y el enigma (2021)
 http://directo.ddns.me:33200/movie/max/123456/48202.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Till Death (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTPGfWghOGL7HnUhV5QFFWBaHbV.jpg" group-title="2021",Till Death (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Till Death (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTPGfWghOGL7HnUhV5QFFWBaHbV.jpg" ,Till Death (2021)
 http://directo.ddns.me:33200/movie/max/123456/48203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jefe en pañales 2: Negocios de familia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XYeAnIdjTiHZehtKcNzsyBwtcz.jpg" group-title="2021",Jefe en pañales 2: Negocios de familia (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Jefe en pañales 2: Negocios de familia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XYeAnIdjTiHZehtKcNzsyBwtcz.jpg" ,Jefe en pañales 2: Negocios de familia (2021)
 http://directo.ddns.me:33200/movie/max/123456/48204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Viuda negra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" group-title="2021",Viuda negra (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Viuda negra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1XE3dtqd9zsEET0EMkxBgXYP6T.jpg" ,Viuda negra (2021)
 http://directo.ddns.me:33200/movie/max/123456/48278.mkv
-#EXTINF:-1 tvg-id="" tvg-name="En lucha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiZRVJQcSH1K0eNvY31mDB8a9qu.jpg" group-title="2020",En lucha (2020)
+#EXTINF:-1 tvg-id="" tvg-name="En lucha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiZRVJQcSH1K0eNvY31mDB8a9qu.jpg" ,En lucha (2020)
 http://directo.ddns.me:33200/movie/max/123456/48279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La leyenda de la viuda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv7OnZoceqeICn0DC7v3cXjyHWA.jpg" group-title="2020",La leyenda de la viuda (2020)
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de la viuda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv7OnZoceqeICn0DC7v3cXjyHWA.jpg" ,La leyenda de la viuda (2020)
 http://directo.ddns.me:33200/movie/max/123456/48280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cómo me convertí en superhéroe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tcQdrmvVooaZs6niLIX1DnaZxB.jpg" group-title="2020",Cómo me convertí en superhéroe (2020)
+#EXTINF:-1 tvg-id="" tvg-name="Cómo me convertí en superhéroe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tcQdrmvVooaZs6niLIX1DnaZxB.jpg" ,Cómo me convertí en superhéroe (2020)
 http://directo.ddns.me:33200/movie/max/123456/48281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La calle del terror, Parte 2: 1978 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9CNNS5htRdTf11A63lNKQyYyhj.jpg" group-title="2021",La calle del terror, Parte 2: 1978 (2021)
+#EXTINF:-1 tvg-id="" tvg-name="La calle del terror, Parte 2: 1978 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9CNNS5htRdTf11A63lNKQyYyhj.jpg" ,La calle del terror, Parte 2: 1978 (2021)
 http://directo.ddns.me:33200/movie/max/123456/48282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aquel verano (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2OLfim4v1WvgTzP0VjuBCISS2L.jpg" group-title="2021",Aquel verano (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Aquel verano (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2OLfim4v1WvgTzP0VjuBCISS2L.jpg" ,Aquel verano (2021)
 http://directo.ddns.me:33200/movie/max/123456/48283.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit 2: A la fuga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qb6u23jMucfMlJ4MCSFo8djka1.jpg" group-title="2021",Peter Rabbit 2: A la fuga (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit 2: A la fuga (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qb6u23jMucfMlJ4MCSFo8djka1.jpg" ,Peter Rabbit 2: A la fuga (2021)
 http://directo.ddns.me:33200/movie/max/123456/48284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Seve (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnbmx93GzJeb2Q2KlbrszvwtYlT.jpg" group-title="2021",Seve (2021)
+#EXTINF:-1 tvg-id="" tvg-name="Seve (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnbmx93GzJeb2Q2KlbrszvwtYlT.jpg" ,Seve (2021)
 http://directo.ddns.me:33200/movie/max/123456/48285.mp4
