@@ -1,6 +1,21 @@
 #EXTM3U
 NO COPIES TE ESTOY VIENDO
 
+#EXTINF:-1 tvg-id="" tvg-name="Saw (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyDWSdsZPQlss3SO3W1DYmEm6ZK.jpg" group-title="TERROR",Saw (2004)
+http://tvplux.xyz:33200/movie/max/123456/5881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw II (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="TERROR",Saw II (2005)
+http://tvplux.xyz:33200/movie/max/123456/5882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw III (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O3WHiMsROucozbDrJwljaTZh5C.jpg" group-title="TERROR",Saw III (2006)
+http://tvplux.xyz:33200/movie/max/123456/5883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw IV - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8YM09nbc5YkEEqNJV6vNr5mzUC.jpg" group-title="TERROR",Saw IV - 2007
+http://tvplux.xyz:33200/movie/max/123456/5884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw V (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5cmCH9R81EiVrcnciDWdLMOflL.jpg" group-title="TERROR",Saw V (2008)
+http://tvplux.xyz:33200/movie/max/123456/5885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw VI (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbj6PhEYIT5IVtzy1TSAVX8flAM.jpg" group-title="TERROR",Saw VI (2009)
+http://tvplux.xyz:33200/movie/max/123456/5886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saw VIII (Jigsaw) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaHuEyGPSEVS731p6jsRCBdEXre.jpg" group-title="TERROR",Saw VIII (Jigsaw) (2017)
+http://tvplux.xyz:33200/movie/max/123456/5888.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Disomnia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kmQ1lBmeC5oLztNKQUBB6xh8i.jpg" ,Disomnia (2021)
 http://directo.ddns.me:33200/movie/max/123456/47901.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En El Barrio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMeMxDRxQN9JlvAadduPDdkpxjh.jpg" ,En El Barrio (2021)
