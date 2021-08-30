@@ -16,6 +16,9 @@ http://tvplux.xyz:33200/movie/max/123456/5886.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saw VIII (Jigsaw) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaHuEyGPSEVS731p6jsRCBdEXre.jpg" group-title="TERROR",Saw VIII (Jigsaw) (2017)
 http://tv.iptv5latino.cl:8080/movie/arbac/EMgOuh1E8n/10777.mp4
 
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qIlRt4op22B69QUbLlfif2lFHVs.jpg" group-title="TERROR" ,Espiral: Saw, el juego del miedo continua (2021)
+http://tv.iptv5latino.cl:8080/movie/arbac/EMgOuh1E8n/70037.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Disomnia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8kmQ1lBmeC5oLztNKQUBB6xh8i.jpg" ,Disomnia (2021)
 http://directo.ddns.me:33200/movie/max/123456/47901.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En El Barrio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMeMxDRxQN9JlvAadduPDdkpxjh.jpg" ,En El Barrio (2021)
