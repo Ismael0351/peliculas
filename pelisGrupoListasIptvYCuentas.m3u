@@ -1,6 +1,8 @@
 #EXTM3U
 NO COPIES TE ESTOY VIENDO
 
+#EXTINF:-1 ,JURASSIC HUNT
+https://archive.org/download/caceria-jurasica-2021/Cacer%C3%ADa%20Jur%C3%A1sica%20%282021%29.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Saw (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyDWSdsZPQlss3SO3W1DYmEm6ZK.jpg" group-title="TERROR",Saw (2004)
 http://tvplux.xyz:33200/movie/max/123456/5881.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Saw II (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="TERROR",Saw II (2005)
