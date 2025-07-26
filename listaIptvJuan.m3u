@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Menem (2025) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8sV9zUgLvLX3NtVPegZ1OiPQ5r.jpg" group-title="SERIES-AMAZON PRIME",Menem (2025) S01 E01
+http://tv.proyectox.vip:8080/series/lupitaaguerra/pbb3zEAtEg/134171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Menem (2025) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9YrV1OyNFycyhh2EKoirII0Hmq.jpg" group-title="SERIES-AMAZON PRIME",Menem (2025) S01 E02
+http://tv.proyectox.vip:8080/series/lupitaaguerra/pbb3zEAtEg/134172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Menem (2025) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7vn8VHcUD2igD76nRgN08SfhS8.jpg" group-title="SERIES-AMAZON PRIME",Menem (2025) S01 E03
+http://tv.proyectox.vip:8080/series/lupitaaguerra/pbb3zEAtEg/134173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Menem (2025) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JaNd1vArtc2uOR3XwP2JL0fvx2.jpg" group-title="SERIES-AMAZON PRIME",Menem (2025) S01 E04
+http://tv.proyectox.vip:8080/series/lupitaaguerra/pbb3zEAtEg/134174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Menem (2025) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7CxpPTcxePyUkdzF63VZTBxche.jpg" group-title="SERIES-AMAZON PRIME",Menem (2025) S01 E05
+http://tv.proyectox.vip:8080/series/lupitaaguerra/pbb3zEAtEg/134175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Menem (2025) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0lL6dMLGHn4GtGI1jkK9BwhnRD.jpg" group-title="SERIES-AMAZON PRIME",Menem (2025) S01 E06
+http://tv.proyectox.vip:8080/series/lupitaaguerra/pbb3zEAtEg/134176.mkv
 #EXTINF:-1 tvg-id="Canal.13.de.Argentina.(El.Trece).ar" tvg-name="CINE - A&E (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (L)(1080)
 http://tv.proyectox.vip:8080/estebanespino36/LDy5vR01l2/9614
 #EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="CINE - A&E (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (M)(1080)
